@@ -94,3 +94,8 @@ i{
     height: 25px;
     right: 10px;
 }
+.subtitulo{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -20px;
+}
