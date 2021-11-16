@@ -67,3 +67,30 @@ i{
     align-items: center;
     justify-content: center;
 }
+.Titulo{
+    font-size: 25px;
+    color: black !important;
+    font-weight: 600;
+}
+.Encabezado{
+    width: 100%;
+    position: relative;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
+.Encabezado img{
+    height: 50px;
+    margin-right: 30px;
+}
+.Contenido{
+    font-size: 15px;
+    margin-bottom: -15px;
+    position: relative;
+    justify-content: space-between;
+}
+.Contenido img{
+    position: absolute;
+    height: 25px;
+    right: 10px;
+}
