@@ -15,13 +15,13 @@
 .contenedor-formulario{
     margin:auto;
     margin-top: 35px;
-    width: 800px;
-    justify-content: center;
+    width: 700px;
+    justify-content: space-between;
 }
 
 input{
     margin-bottom:20px;
-    width: 200px;
+    width: 240px;
 }
 .Footer{
     position: absolute;
@@ -35,4 +35,25 @@ i{
     display: inline-block;
     margin-left: 20px;
     margin-top: 40px;
+}
+
+.agregar{
+    display: flex;
+    width: 250px;
+    height: 100%;
+}
+
+.agregar button{
+    background: black;
+    color: white;
+    border-radius: 0% 50% 50% 0%;
+    height: 30px;
+    font-size: 24px;
+    font-weight: 900;
+}
+ 
+.agregar p{
+    height: 10px;
+    margin: auto;
+    margin-top: -20px;
 }
