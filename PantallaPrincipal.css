@@ -5,7 +5,7 @@
 }
 
 .container-fluid{
-    min-height: 100vh;
+    height: 100%;
     padding: 0px;
 }
 .p-1{
@@ -14,17 +14,22 @@
 
 .contenedor-formulario{
     margin:auto;
-    margin-top: 25px;
+    margin-top: 35px;
     width: 800px;
     justify-content: center;
 }
 
 input{
-    margin-bottom: 15px;
+    margin-bottom:20px;
     width: 200px;
 }
 .Footer{
+    position: absolute;
+    height: 100px; 
     text-align: center;
+    background-color: #8cc6db;
+    bottom: 0;
+    width: 100%;
 }
 i{
     display: inline-block;
