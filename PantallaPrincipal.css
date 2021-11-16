@@ -11,3 +11,15 @@
 .p-1{
     margin: 0 20px;
 }
+
+.contenedor-formulario{
+    margin:auto;
+    margin-top: 25px;
+    width: 800px;
+    justify-content: center;
+}
+
+input{
+    margin-bottom: 15px;
+    width: 200px;
+}
