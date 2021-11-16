@@ -23,3 +23,11 @@ input{
     margin-bottom: 15px;
     width: 200px;
 }
+.Footer{
+    text-align: center;
+}
+i{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 40px;
+}
