@@ -57,3 +57,12 @@ i{
     margin: auto;
     margin-top: -20px;
 }
+
+.crear-btn{
+    background:#8cc6db;
+    border: none;
+    margin:auto;
+    margin-left: 80px;
+    align-items: center;
+    justify-content: center;
+}
